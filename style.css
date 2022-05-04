@@ -55,7 +55,7 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: normal;
     font-size: 15px;
-    color: rgb(76, 8, 139);
+    color: rgb(0, 12, 53);
     margin-left: 108px;
     margin-top: 20px;
     line-height: 150%;
@@ -65,6 +65,7 @@ button{
     width: 10%;
     height: 42px;
     color: white;
+    border: none;
     border-radius: 5px;
     border-color: #00A3AF;
     margin-left: 133px;
@@ -113,7 +114,7 @@ font-size: 25px;
 }
 .intro p{
     margin-left: 480px;
-    color: rgb(76, 8, 139);
+    color: rgb(0, 12, 53);
     font-size: 15px;
 }
 .radiology{
@@ -137,7 +138,7 @@ font-size: 25px;
     margin-top: 10px;
     font-weight: normal;
     font-size: 14px;
-    color: rgb(76, 8, 139);
+    color: rgb(0, 12, 53);
 }
 .ambulance{
     width: 226px;
@@ -160,7 +161,7 @@ font-size: 25px;
     margin-top: 10px;
     font-weight: normal;
     font-size: 14px;
-    color: rgb(76, 8, 139);
+    color: rgb(0, 12, 53);
 }
 .dental{
     width: 226px;
@@ -183,7 +184,7 @@ font-size: 25px;
     margin-top: 10px;
     font-weight: normal;
     font-size: 14px;
-    color: rgb(76, 8, 139);
+    color: rgb(0, 12, 53);
 }
 .boxes-one{
     display: flex;
@@ -209,7 +210,7 @@ font-size: 25px;
     margin-top: 10px;
     font-weight: normal;
     font-size: 14px;
-    color: rgb(76, 8, 139);
+    color: rgb(0, 12, 53);
 }
 .paw{
     width: 226px;
@@ -232,7 +233,7 @@ font-size: 25px;
     margin-top: 10px;
     font-weight: normal;
     font-size: 14px;
-    color: rgb(76, 8, 139);
+    color: rgb(0, 12, 53);
 }
 .hostel{
     width: 226px;
@@ -255,7 +256,7 @@ font-size: 25px;
     margin-top: 10px;
     font-weight: normal;
     font-size: 14px;
-    color: rgb(76, 8, 139);
+    color: rgb(0, 12, 53);
 }
 .boxes-two{
     display: flex;
@@ -286,7 +287,7 @@ font-size: 25px;
 .topic p{
     margin-top: 25px;
     font-size: 17px;
-    color: rgb(76, 8, 139);
+    color: rgb(0, 12, 53);
 }
 .topic button{
     background-color: #00A3AF;
@@ -315,7 +316,7 @@ font-size: 25px;
 }
 .intro-two p{
     margin-left: 498px;
-    color: rgb(76, 8, 139);
+    color: rgb(0, 12, 53);
     font-size: 15px;
 }
 .com-one img{
@@ -337,7 +338,7 @@ font-size: 25px;
     font-size: 16px;
     font-weight: normal;
     line-height: 28px;
-    color: rgb(76, 8, 139); 
+    color: rgb(0, 12, 53); 
 }
 #quote{
     border-radius: 50%;
@@ -387,7 +388,7 @@ font-size: 25px;
     font-size: 16px;
     font-weight: normal;
     line-height: 28px;
-    color: rgb(76, 8, 139); 
+    color: rgb(0, 12, 53); 
 }
 #quote{
     border-radius: 50%;
@@ -481,7 +482,7 @@ font-size: 25px;
 }
 #a{
     font-weight: normal;
-    color: rgb(76, 8, 139); 
+    color: rgb(0, 12, 53); 
 }
 .subscribe{
     padding: 100px;
@@ -502,7 +503,7 @@ font-size: 25px;
     border-radius: 10px;
     font-size: large;
     padding-left: 15px;
-    color: rgb(76, 8, 139);
+    color: rgb(0, 12, 53);
     border: none; 
 }
 .inp button{
@@ -518,7 +519,7 @@ font-size: 25px;
 .yourpet h3{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: normal;
-    color: rgb(76, 8, 139);
+    color: rgb(0, 12, 53);
     line-height: 30px;
     margin-left: 30px;
     font-size: 15px;
@@ -554,7 +555,7 @@ font-size: 25px;
 }
 .combo h3{
     font-weight: normal;
-    color: rgb(76, 8, 139);
+    color: rgb(0, 12, 53);
     font-size: 15px;
     line-height: 30px;
 }
